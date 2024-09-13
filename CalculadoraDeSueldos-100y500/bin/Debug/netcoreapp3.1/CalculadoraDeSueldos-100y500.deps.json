@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculadoraDeSueldos-100y500/1.0.0": {
+        "runtime": {
+          "CalculadoraDeSueldos-100y500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraDeSueldos-100y500/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

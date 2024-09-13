@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.exe
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.deps.json
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.runtimeconfig.json
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.dll
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\bin\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.pdb
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.dll
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.pdb
+C:\Users\UserGPC\source\repos\CalculadoraDeSueldos-100y500\CalculadoraDeSueldos-100y500\obj\Debug\netcoreapp3.1\CalculadoraDeSueldos-100y500.genruntimeconfig.cache

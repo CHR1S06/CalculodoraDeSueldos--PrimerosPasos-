@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|c:\\users\\usergpc\\source\\repos\\calculadoradesueldos-100y500\\calculadoradesueldos-100y500\\clases-app1\\comprobaciondesueldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|solutionrelative:calculadoradesueldos-100y500\\clases-app1\\comprobaciondesueldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|c:\\users\\usergpc\\source\\repos\\calculadoradesueldos-100y500\\calculadoradesueldos-100y500\\clases-app1\\sueldosemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|solutionrelative:calculadoradesueldos-100y500\\clases-app1\\sueldosemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|c:\\users\\usergpc\\source\\repos\\calculadoradesueldos-100y500\\calculadoradesueldos-100y500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|solutionrelative:calculadoradesueldos-100y500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|c:\\users\\usergpc\\source\\repos\\calculadoradesueldos-100y500\\calculadoradesueldos-100y500\\clases-app1\\cantidadempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|solutionrelative:calculadoradesueldos-100y500\\clases-app1\\cantidadempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|c:\\users\\usergpc\\source\\repos\\calculadoradesueldos-100y500\\calculadoradesueldos-100y500\\clases-app1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E6DCEE-075A-4876-A776-2AD07A994C4B}|CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500.csproj|solutionrelative:calculadoradesueldos-100y500\\clases-app1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComprobacionDeSueldos.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\ComprobacionDeSueldos.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSueldos-100y500\\clases-App1\\ComprobacionDeSueldos.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\ComprobacionDeSueldos.cs",
+              "RelativeToolTip": "CalculadoraDeSueldos-100y500\\clases-App1\\ComprobacionDeSueldos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:22:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SueldosEmp.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\SueldosEmp.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSueldos-100y500\\clases-App1\\SueldosEmp.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\SueldosEmp.cs",
+              "RelativeToolTip": "CalculadoraDeSueldos-100y500\\clases-App1\\SueldosEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:36:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CantidadEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\CantidadEmpleados.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSueldos-100y500\\clases-App1\\CantidadEmpleados.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\CantidadEmpleados.cs",
+              "RelativeToolTip": "CalculadoraDeSueldos-100y500\\clases-App1\\CantidadEmpleados.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:07:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App1.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\App1.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSueldos-100y500\\clases-App1\\App1.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\clases-App1\\App1.cs",
+              "RelativeToolTip": "CalculadoraDeSueldos-100y500\\clases-App1\\App1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:55:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSueldos-100y500\\Program.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\CalculadoraDeSueldos-100y500\\CalculadoraDeSueldos-100y500\\Program.cs",
+              "RelativeToolTip": "CalculadoraDeSueldos-100y500\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:49:31.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
